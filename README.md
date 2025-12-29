@@ -14,8 +14,7 @@ Interactive shell in a container → Falco → Wazuh agent → correlation rule 
 - **AI-Driven Cybersecurity Roadmap (Mini-SOC)** — Wazuh SIEM, detections, dashboards, reports.
 - **Local AI Cybersecurity RAG Lab** — Ollama + OpenWebUI + offline-first knowledge base.
 
-## What I’m building next
-- **Project 9: SOC integration & reporting** (case notes, KPIs, architecture diagram, exec summary)
+
 
 ## Quick links
 - Roadmap (Mini-SOC): https://github.com/jeandonat/ai-cybersecurity-roadmap
