@@ -7,7 +7,7 @@ I build reproducible security labs with proof screenshots, write-ups, and triage
 Interactive shell in a container → Falco → Wazuh agent → correlation rule → dashboard evidence.  
 ➡️ Repo: ai-cybersecurity-roadmap → Project 8  
 
-<img width="600" height="400" alt="01-alert-event-details" src="https://github.com/user-attachments/assets/edb4b507-7aa7-42bb-9f38-3371ceff5a56" />
+<img width="600"  alt="01-alert-event-details" src="https://github.com/user-attachments/assets/edb4b507-7aa7-42bb-9f38-3371ceff5a56" />
 
 
 ## Pinned projects
@@ -18,6 +18,7 @@ Interactive shell in a container → Falco → Wazuh agent → correlation rule 
 - **Project 9: SOC integration & reporting** (case notes, KPIs, architecture diagram, exec summary)
 
 ## Quick links
-- Roadmap repo: (link)
-- RAG lab repo: (link)
-- LinkedIn: (link)
+- Roadmap (Mini-SOC): https://github.com/jeandonat/ai-cybersecurity-roadmap
+- Step 8 highlight (Falco → Wazuh): https://github.com/jeandonat/ai-cybersecurity-roadmap/tree/main/project8-Container-Security-Docker/step8-falco-runtime-detection
+- Local AI RAG Lab: https://github.com/jeandonat/Local-AI-Cybersecurity-RAG-Lab
+- LinkedIn: https://www.linkedin.com/in/jean-donat-vellino-620a749b/
